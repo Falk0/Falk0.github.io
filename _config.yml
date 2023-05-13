@@ -10,3 +10,11 @@ github_username:  Falk0
 theme: minima
 plugins:
   - jekyll-feed
+
+menu:
+  - title: Home
+    url: https://falk0.github.io/
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
