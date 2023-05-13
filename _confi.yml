@@ -1,3 +1,5 @@
+theme: Architect
+
 menu:
   - title: Home
     url: /
