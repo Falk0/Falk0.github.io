@@ -7,8 +7,13 @@
   </head>
   <body>
     <nav>
-      <a href="/">Home</a>
+    <ul>
+      {% for page in site.header_pages %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
     </nav>
+
     <h1>{{ page.title }}</h1>
     <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
     <div>
