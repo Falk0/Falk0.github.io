@@ -3,13 +3,9 @@ layout: default
 title: Home
 ---
 
-[About](./about.html).
+[About](./about.html)
+[Contact](./contact.html)
 
-## Latest Post
-
-{% assign latest_post = site.posts.first %}
-### [{{ latest_post.title }}]({{ latest_post.url }})
-{{ latest_post.excerpt }}
 
 ## Post History
 
@@ -20,3 +16,12 @@ title: Home
     </li>
 {% endfor %}
 </ul>
+
+
+
+## Latest Post
+
+{% assign latest_post = site.posts.first %}
+### [{{ latest_post.title }}]({{ latest_post.url }})
+{{ latest_post.excerpt }}
+
