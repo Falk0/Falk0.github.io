@@ -9,4 +9,5 @@ author: Linus Falk
 
 This is the first post
 
-[My Document](https://github.com/Falk0/latex_master1_semester2/blob/1c278e040f3b6adc50228cd18c75c25ede650649/reinforcement_learning/master.pdf)
+
+<a href="https://github.com/Falk0/latex_master1_semester2/blob/1c278e040f3b6adc50228cd18c75c25ede650649/reinforcement_learning/master.pdf" target="_blank">My Document</a>
