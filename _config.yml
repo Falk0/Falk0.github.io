@@ -13,6 +13,6 @@ plugins:
 plugins:
   - jekyll-feed
 
-title: [Linus Falk]
-description: [Collection of my reports and notes]
+title: Linus Falk
+description: Collection of my reports and notes
 

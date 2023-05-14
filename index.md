@@ -8,7 +8,7 @@ title: Home
 [Contact](./contact.html)
 
 
-## Post History
+## Lecture notes
 
 <ul>
 {% for post in site.posts %}
