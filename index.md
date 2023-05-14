@@ -3,9 +3,18 @@ layout: default
 title: Home
 ---
 
-Welcome to my homepage!
+## Latest Post
 
-## Posts
+{% assign latest_post = site.posts.first %}
+### [{{ latest_post.title }}]({{ latest_post.url }})
+{{ latest_post.excerpt }}
+
+## Post History
+
+<ul>
 {% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }})
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
 {% endfor %}
+</ul>

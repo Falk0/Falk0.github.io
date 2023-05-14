@@ -16,3 +16,11 @@ plugins:
 
 title: [Linus Falk]
 description: [Collection of my reports and notes]
+
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
