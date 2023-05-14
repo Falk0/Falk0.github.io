@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[About](./about.html).
+
 ## Latest Post
 
 {% assign latest_post = site.posts.first %}
