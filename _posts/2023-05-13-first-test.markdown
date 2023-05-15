@@ -10,4 +10,4 @@ author: Linus Falk
 This is the first post
 
 
-<a href="https://github.com/Falk0/latex_master1_semester2/blob/1c278e040f3b6adc50228cd18c75c25ede650649/reinforcement_learning/master.pdf" target="_blank">My Document</a>
+<embed src="https://github.com/Falk0/latex_master1_semester2/blob/1c278e040f3b6adc50228cd18c75c25ede650649/reinforcement_learning/master.pdf" type="application/pdf" width="100%" height="600px" />
