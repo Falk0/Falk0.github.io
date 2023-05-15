@@ -12,5 +12,6 @@ author: Linus Falk
 This is the first post
 
 
-<a href="https://github.com/Falk0/latex_master1_semester2/blob/1c278e040f3b6adc50228cd18c75c25ede650649/reinforcement_learning/master.pdf" target="_blank">Reinforcement learning notes</a>
+you can [download pdf](https://Falk0.github.io/notes/reinforcementlearning.pdf) here.
 
+<embed src="https://Falk0.github.io/notes/reinforcementlearning.pdf" type="application/pdf"/>
