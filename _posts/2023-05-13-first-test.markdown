@@ -14,4 +14,6 @@ This is the first post
 
 you can [download pdf](https://Falk0.github.io/notes/reinforcementlearning.pdf) here.
 
-<embed src="https://Falk0.github.io/notes/reinforcementlearning.pdf" type="application/pdf"/>
+<embed src="" type="application/pdf"/>
+
+<object data="{{ site.url }}{{ https://Falk0.github.io }}/notes/reinforcementlearning.pdf" width="1000" height="1000" type="application/pdf"></object>
