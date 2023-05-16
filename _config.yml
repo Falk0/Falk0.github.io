@@ -16,3 +16,6 @@ plugins:
 title: Linus Falk
 description: Collection of my reports and notes
 
+collections:
+  reports:
+    output: true

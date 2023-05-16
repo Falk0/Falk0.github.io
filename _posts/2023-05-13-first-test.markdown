@@ -8,7 +8,7 @@ author: Linus Falk
 [back](https://falk0.github.io/)
 
 # Reinforcement learning 
-Lecture notes from the UU course - Reinforcement learning 7.5c
+Lecture Notes for Reinforcement Learning Course 7.5c at Uppsala University.
 
 you can [download pdf](https://Falk0.github.io/notes/reinforcementlearning.pdf) here.
 
