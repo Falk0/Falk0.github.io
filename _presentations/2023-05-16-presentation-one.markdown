@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "UU - Digital imaging systems"
+title:  "UU - Hyperspectral satellite imaging"
 date:   2023-05-13 15:07:19 +0530
 author: Linus Falk
 ---
