@@ -20,7 +20,13 @@ title: Home
 
 
 
-## Latest Post
+## Reports
 
-Here should the latest post be published
+<ul>
+{% for doc in site.reports %}
+    <li>
+        <a href="{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+{% endfor %}
+</ul>
 
