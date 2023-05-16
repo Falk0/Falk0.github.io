@@ -19,3 +19,5 @@ description: Collection of my reports and notes
 collections:
   reports:
     output: true
+  presentations
+    output: true

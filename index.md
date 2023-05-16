@@ -8,17 +8,6 @@ title: Home
 [Contact](./contact.html)
 
 
-## Lecture notes
-
-<ul>
-{% for post in site.posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-
 
 ## Reports
 
@@ -29,4 +18,25 @@ title: Home
     </li>
 {% endfor %}
 </ul>
+
+## Lecture notes
+
+<ul>
+{% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+## Presentations
+
+<ul>
+{% for doc in site.presentations %}
+    <li>
+        <a href="{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
 
