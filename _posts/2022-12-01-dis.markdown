@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "UU - Digital imaging systems"
+date:   2022-12-01 15:07:19 +0530
+author: Linus Falk
+---
+
+[back](https://falk0.github.io/)
+
+# Digital imaging systems 
+Lecture Notes for Digital imaging systems Course 7.5c at Uppsala University.
+
+you can [download pdf](https://Falk0.github.io/notes/digital_imaging_systems.pdf) here.
+
+
+
+<object data="{{ site.url }}{{ https://Falk0.github.io }}/notes/digital_imaging_systems.pdf" width="1000" height="1000" type="application/pdf"></object>
