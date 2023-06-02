@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "UU - Reinforcement learning"
-date:   2023-05-13 15:07:19 +0530
+date:   2023-05-25 15:07:19 +0530
 author: Linus Falk
 ---
 

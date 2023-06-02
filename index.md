@@ -12,7 +12,8 @@ title: Home
 ## Reports
 
 <ul>
-{% for doc in site.reports %}
+{% assign sorted_reports = site.reports | sort: 'date' | reverse %}
+{% for doc in sorted_reports %}
     <li>
         <a href="{{ doc.url }}">{{ doc.title }}</a>
     </li>
@@ -22,7 +23,8 @@ title: Home
 ## Lecture notes
 
 <ul>
-{% for post in site.posts %}
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
@@ -32,11 +34,13 @@ title: Home
 ## Presentations
 
 <ul>
-{% for doc in site.presentations %}
+{% assign sorted_presentations = site.presentations | sort: 'date' | reverse %}
+{% for doc in sorted_presentations %}
     <li>
         <a href="{{ doc.url }}">{{ doc.title }}</a>
     </li>
 {% endfor %}
 </ul>
+
 
 

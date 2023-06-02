@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "UU - DL4IA Cancer classification challenge"
-date:   2023-05-13 15:07:19 +0530
+date:   2023-06-02 15:07:19 +0530
 author: Linus Falk
 ---
 
