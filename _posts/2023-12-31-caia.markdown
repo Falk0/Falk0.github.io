@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "UU - Computer assisted image analysis"
+date:   2023-05-13 15:07:19 +0530
+author: Linus Falk
+---
+
+[back](https://falk0.github.io/)
+
+# Computer assisted image analysis (CAIA) 
+Lecture Notes for CAIA Course 7.5c at Uppsala University.
+
+you can [download pdf](https://Falk0.github.io/notes/CAIA.pdf) here.
+
+
+
+<object data="{{ site.url }}{{ https://Falk0.github.io }}/notes/CAIA.pdf" width="1000" height="1000" type="application/pdf"></object>
