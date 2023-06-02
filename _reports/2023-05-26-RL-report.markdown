@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "UU - Deep learning for image analysis, A3"
+date:   2023-05-26 21:07:19 +0530
+author: Linus Falk
+---
+
+[back](https://falk0.github.io/)
+
+# Reinforcement Learning
+Report for project in Reinforcement Learning Course 7.5c at Uppsala University.
+
+you can [download pdf](https://Falk0.github.io/reports/RL_project.pdf) here.
+
+
+
+<object data="{{ site.url }}{{ https://Falk0.github.io }}/reports/RL_project.pdf" width="1000" height="1000" type="application/pdf"></object>
