@@ -1,0 +1,17 @@
+---
+layout: default
+title:  "UU - Computer graphics"
+date:   2023-03-30 15:07:19 +0530
+author: Linus Falk
+---
+
+[back](https://falk0.github.io/)
+
+# Computer graphics 
+Report for project in Computer graphics Course 7.5c at Uppsala University.
+
+you can [download pdf](https://Falk0.github.io/reports/computer_graphics.pdf) here.
+
+
+
+<object data="{{ site.url }}{{ https://Falk0.github.io }}/reports/computer_graphics.pdf" width="1000" height="1000" type="application/pdf"></object>

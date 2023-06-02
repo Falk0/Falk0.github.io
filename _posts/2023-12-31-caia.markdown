@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "UU - Computer assisted image analysis"
-date:   2023-05-13 15:07:19 +0530
+date:   2022-12-31 15:07:19 +0530
 author: Linus Falk
 ---
 
