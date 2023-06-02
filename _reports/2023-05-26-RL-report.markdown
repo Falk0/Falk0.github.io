@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "UU - Deep learning for image analysis, A3"
+title:  "UU - Reinforcement Learning - Project"
 date:   2023-05-26 21:07:19 +0530
 author: Linus Falk
 ---
